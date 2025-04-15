@@ -25,3 +25,10 @@ Enter your principal amount: 1000 Enter the interest rate(in %): 5 Enter number 
 ### 📊 Program Output
 After 5 years, your original principal amount of 1000.00 compounded 4 times per year at an interest rate of 5.00% will become 1283.36
 
+### 📄 License
+
+This project is licensed under the MIT License.
+Feel free to use, modify, and distribute — just include attribution to the original author.
+
+Let me know if you want the **formula** styled with Markdown or LaTeX formatting — I can help with that too!
+
